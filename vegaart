@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VEGA</title>
+
+ 
+
+    <style>
+        body{
+            font-family: Arial;
+            text-align: center;
+            margin-top: 100px;
+        }
+
+        button{
+            padding: 15px 25px;
+            margin: 10px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Vega Products</h1>
+
+<p>Vega art and literature.</p>
+
+<button>Art</button>
+<button>Literature</button>
+
+
+</body>
+</html>
